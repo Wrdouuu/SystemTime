@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\SystemTime\obj\Debug\net8.0\SystemTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\SystemTime\obj\Debug\net8.0\SystemTime.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\SystemTime\obj\Debug\net8.0\SystemTime.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\SystemTime\obj\Debug\net8.0\SystemTime.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\SystemTime\bin\Debug\net8.0\SystemTime.exe
+C:\Users\admin\Desktop\Bai tap\SystemTime\bin\Debug\net8.0\SystemTime.deps.json
+C:\Users\admin\Desktop\Bai tap\SystemTime\bin\Debug\net8.0\SystemTime.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\SystemTime\bin\Debug\net8.0\SystemTime.dll
+C:\Users\admin\Desktop\Bai tap\SystemTime\bin\Debug\net8.0\SystemTime.pdb
+C:\Users\admin\Desktop\Bai tap\SystemTime\obj\Debug\net8.0\SystemTime.dll
+C:\Users\admin\Desktop\Bai tap\SystemTime\obj\Debug\net8.0\refint\SystemTime.dll
+C:\Users\admin\Desktop\Bai tap\SystemTime\obj\Debug\net8.0\SystemTime.pdb
+C:\Users\admin\Desktop\Bai tap\SystemTime\obj\Debug\net8.0\SystemTime.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\SystemTime\obj\Debug\net8.0\ref\SystemTime.dll
